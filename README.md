@@ -1,4 +1,4 @@
-# 📽️ Movie Recommendation System
+# 📽️ Movie Recommendation System (Content Based Filtering)
 A content-based movie recommender using TF-IDF, cosine similarity, and an interactive Streamlit interface.
 
 Live Demo → https://movie-recommendation-system-tmc5lhfeyzpausrk6vdns9.streamlit.app/
